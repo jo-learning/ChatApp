@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382977207874",
+    "project_id": "pristine-lodge-406921",
+    "storage_bucket": "pristine-lodge-406921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382977207874:android:374731e8357bae4b3c07db",
+        "android_client_info": {
+          "package_name": "com.yohannes.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGEN8QHT7ZwGw4y7i1mJs0OuvkrAnV4xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
